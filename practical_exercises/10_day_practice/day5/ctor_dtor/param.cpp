@@ -25,3 +25,8 @@ int main() {
   Line L1(1, 2, 3);
   
 }
+
+/*
+constructing point(1,2)
+Constructing Line,len ...3
+*/
