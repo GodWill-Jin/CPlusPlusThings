@@ -28,7 +28,7 @@ int main() {
   D d;
   
 }
-
+//派生类构造时会构造基类
 /*
 执行结果：
 Constructing C
