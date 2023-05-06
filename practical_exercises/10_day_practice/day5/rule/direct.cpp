@@ -24,3 +24,10 @@ int main() {
   C c(1);
   
 }
+
+/*
+Constructing A
+Constructing B
+Constructing C
+Destructing A
+*/
