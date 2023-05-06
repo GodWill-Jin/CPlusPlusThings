@@ -27,3 +27,10 @@ int main() {
   
   return 0;
 }
+
+/*
+Base constructor x=1
+Derived constructor y=2
+Derived destructor...
+Base destructor...
+*/
