@@ -13,3 +13,9 @@ int main() {
   B b;
   
 }
+
+/*
+Constructing A
+Destructing B
+Destructing A
+*/
