@@ -32,7 +32,7 @@ int main() {
   return 0;
 }
 
-/*    虚基类只会构造一次
+/*    虚基类只会构造一次   虚基类会优先构造
 Constructing B
 Constructing A
 Constructing B1
