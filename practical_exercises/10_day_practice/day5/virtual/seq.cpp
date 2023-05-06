@@ -31,3 +31,13 @@ int main() {
   
   return 0;
 }
+
+/*    虚基类只会构造一次
+Constructing B
+Constructing A
+Constructing B1
+Constructing A
+Constructing B2
+Constructing A
+Constructing D
+*/
